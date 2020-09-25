@@ -1,4 +1,2 @@
 # ARM_Course
-IMT ARM Course
-
-## Drivers
+## IMT ARM Course
